@@ -3,11 +3,6 @@
     "level": "info",
     "timestamp": true
   },
-  "cache_file": {
-    "enabled": true,
-    "store_fakeip": false
-    }
-  },
   "dns": {
     "servers": [
       {
